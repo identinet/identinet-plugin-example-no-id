@@ -1,4 +1,4 @@
-# identinet-plugin Demo: No DID
+## identinet-plugin Demo: No DID
 
 This page is part of the [did:hack](https://didhack.xyz/) hackathon project
 [identinet-plugin](https://github.com/identinet/identinet-plugin). It
