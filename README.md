@@ -13,8 +13,8 @@ demonstrates a website without a well-known decentralized identifier.
 
 ## Files
 
-[.well-known/did.json](.well-known/did.json)
-[.well-known/presentation.json](.well-known/presentation.json)
+- [.well-known/did.json](.well-known/did.json)
+- [.well-known/presentation.json](.well-known/presentation.json)
 
 ## Expected Verification Status
 
