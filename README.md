@@ -15,13 +15,14 @@ demonstrates a website without a well-known decentralized identifier.
 - <img style="height: 1em" alt="Non-standard ID, Linked Verifiable Presentation and Well-Known DID Configuration" src="./icons/shield-plus.svg" />
   <a href="https://id-non-standard-plus-well-known-example.identinet.io/">Non-standard ID, Linked Verifiable Presentation and Well-Known DID Configuration</a>
 - <img style="height: 1em" alt="Broken Linked Verifiable Presentation" src="./icons/shield-xmark.svg" />
-  <a href="https://id-plus-broken-well-known-example.identinet.io/">Broken Linked Verifiable Presentation</a>
+  <a href="https://id-broken-plus-well-known-example.identinet.io/">Broken Linked Verifiable Presentation</a>
 - <img style="height: 1em" alt="Broken Well-Known DID Configuration" src="./icons/shield-xmark.svg" />
-  <a href="https://id-broken-plus-well-known-example.identinet.io/">Broken Well-Known DID Configuration</a>
+  <a href="https://id-plus-broken-well-known-example.identinet.io/">Broken Well-Known DID Configuration</a>
 
 ## Files
 
 - [.well-known/did.json](.well-known/did.json)
+- [.well-known/did-configuration.json](.well-known/did-configuration.json)
 - [.well-known/presentation.json](.well-known/presentation.json)
 
 ## Expected Verification Status
